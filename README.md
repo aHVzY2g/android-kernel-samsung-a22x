@@ -3,3 +3,13 @@
 ### Kernel Info
 - Model: SM-A226B
 - Version: A226BXXU3AUJ2
+
+### To Build
+```
+apt install libssl-dev
+
+git clone --recurse-submodules git@github.com:aHVzY2g/android-kernel-samsung-a22x.git
+```
+```
+./build_kernel.sh
+```
