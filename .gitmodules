@@ -4,3 +4,9 @@
 [submodule "PLATFORM/aarch64-linux-android-4.9"]
 	path = PLATFORM/aarch64-linux-android-4.9
 	url = git@github.com:aHVzY2g/aarch64-linux-android-4.9.git
+[submodule "aarch64-linux-gnu"]
+	path = aarch64-linux-gnu
+	url = git@github.com:aHVzY2g/aarch64-linux-gnu.git
+[submodule "PLATFORM/aarch64-linux-gnu"]
+	path = PLATFORM/aarch64-linux-gnu
+	url = git@github.com:aHVzY2g/aarch64-linux-gnu.git
