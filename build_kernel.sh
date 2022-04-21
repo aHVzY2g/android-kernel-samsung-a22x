@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export CROSS_COMPILE=$(pwd)/../PLATFORM/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-
-export CC=$(pwd)/../PLATFORM/prebuilts/clang/host/linux-x86/clang-r383902/bin/clang
+export CROSS_COMPILE=$(pwd)/PLATFORM/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+export CC=$(pwd)/PLATFORM/Clang-R383902/bin/clang
 export CLANG_TRIPLE=aarch64-linux-gnu-
 export ARCH=arm64
 export ANDROID_MAJOR_VERSION=r

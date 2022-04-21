@@ -1,0 +1,6 @@
+[submodule "PLATFORM/Clang-R383902"]
+	path = PLATFORM/Clang-R383902
+	url = git@github.com:aHVzY2g/Clang-R383902-Linux-x86.git
+[submodule "PLATFORM/aarch64-linux-android-4.9"]
+	path = PLATFORM/aarch64-linux-android-4.9
+	url = git@github.com:aHVzY2g/aarch64-linux-android-4.9.git
